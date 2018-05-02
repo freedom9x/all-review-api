@@ -1,2 +1,2 @@
 # all-review-api
-This is restful api for All Review project
+This is restful api for All Review project by Express
